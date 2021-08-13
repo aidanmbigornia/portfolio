@@ -4,11 +4,14 @@
 	box-sizing: border-box;
 	font-family: Poppins;, sans-serif;
 	/*border: 2px solid red;*/
+	scroll-behavior: smooth;
 }
 
 :root {
 	font-size: 20px;
 }
+
+
 
 #landing, #portfolio, #contact, .jumbotron {
 	border-radius: 0;
@@ -311,3 +314,6 @@ section span {
 	}
 }
 
+
+
+/*PARALLAX*/
